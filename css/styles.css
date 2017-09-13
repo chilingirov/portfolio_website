@@ -150,12 +150,6 @@ ul li {
     margin-top: 20px;
 }
 
-@media screen and (min-width:768px) {
-    .socials {
-        display: none;
-    }
-}
-
 i {
     color: #02b3e4;
 }
